@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AcelerometerSensor</string>
+    <string name="x_coord">X: %f</string>
+    <string name="y_coord">Y: %f</string>
+    <string name="z_coord">Z: %f</string>
+    <string name="estado_del_sensor">ESTADO DEL SENSOR</string>
+    <string name="iniciando">Iniciando...</string>
+    <string name="precision">PRECISIÓN</string>
+    <string name="calculando">Calculando...</string>
+    <string name="mision_gravedad">MISIÓN GRAVEDAD</string>
+    <string name="detector_de_acelerometro">Detector de Acelerómetro</string>
+    <string name="coordenadas">COORDENADAS</string>
+    <string name="eje_x">Eje X:</string>
+    <string name="eje_y">Eje Y:</string>
+    <string name="eje_z">Eje Z:</string>
+</resources>
